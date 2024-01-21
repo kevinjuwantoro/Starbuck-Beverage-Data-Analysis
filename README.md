@@ -60,6 +60,20 @@ The analysis will involve: **Focusing on Frappuccino® Blended Coffee vs Frappuc
 | Iron (% DV)           | Percentage of Daily Value for Iron                     |
 | Caffeine (mg)         | Amount of caffeine in milligrams                       |
 
+**Frappuccino® Light Blended Coffee**
+
+**1. Caramel:**
+The Grande Nonfat Milk Frappuccino® Light Blended Coffee (Caramel) has 150 calories, 0.1g total fat, and 33g total carbs, with 3g protein, 10% DV Vitamin A, and 90mg caffeine; the Tall Nonfat Milk option has 100 calories, 0.1g fat, and 23g carbs, with 3g protein, 8% DV Vitamin A, and 65mg caffeine; the Venti Nonfat Milk version has 200 calories, 0.1g fat, and 44g carbs, with 5g protein, 15% DV Calcium, 2% DV Iron, and 120mg caffeine.
+
+**2. Coffee:**
+The Grande Nonfat Milk Coffee has 120 calories, 0.1g total fat, and 26g total carbs, with 3g protein, 10% DV Vitamin A, and 95mg caffeine; the Tall Nonfat Milk option has 90 calories, 0.1g fat, and 20g carbs, with 3g protein, 10% DV Vitamin A, and 70mg caffeine; the Venti Nonfat Milk version has 160 calories, 0.1g fat, and 34g carbs, with 5g protein, 15% DV Calcium, 2% DV Iron, and 120mg caffeine.
+
+**3. Java Chip:**
+The Grande Nonfat Milk Java Chip has 220 calories, 4g total fat, and 43g total carbs, with 5g protein, 10% DV Vitamin A, 25% DV Calcium, and 105mg caffeine; the Tall Nonfat Milk option has 150 calories, 3g fat, and 30g carbs, with 4g protein, 10% DV Vitamin A, and 70mg caffeine; the Venti Nonfat Milk version has 290 calories, 5g fat, and 58g carbs, with 7g protein, 15% DV Calcium, 35% DV Iron, and 165mg caffeine.
+
+**4. Mocha:**
+The Grande Nonfat Milk Mocha has 150 calories, 1g total fat, and 33g total carbs, with 4g protein, 10% DV Vitamin A, 8% DV Vitamin C, and 95mg caffeine; the Tall Nonfat Milk option has 110 calories, 0.5g fat, and 24g carbs, with 3g protein, 8% DV Vitamin A, and 70mg caffeine; the Venti Nonfat Milk version has 210 calories, 1g fat, and 46g carbs, with 6g protein, 15% DV Calcium, 10% DV Iron, and 130mg caffeine.
+
 ## **Frappuccino® Blended Coffee**
 
 **1. Caramel (Without Whipped Cream):**
@@ -75,6 +89,8 @@ The Grande Nonfat Milk Java Chip has 310 calories, 4g total fat, and 67g total c
     
 **4. Mocha (Without Whipped Cream):**
 The Grande Nonfat Milk Mocha has 260 calories, 1g total fat, and 61g total carbs, with 4g protein, 10% DV Vitamin A, 8% DV Vitamin C, and 110mg caffeine; the Soymilk option has 263.33 calories, 2.5g fat, and 59g carbs, with 4.33g protein, 13.33% DV Vitamin C, and 106.67mg caffeine; the Tall Nonfat Milk has 180 calories, 0.5g fat, and 42g carbs, with 3g protein, 10% DV Vitamin A, and 130mg caffeine; the Venti Nonfat Milk has 340 calories, 1g fat, and 80g carbs, with 7g protein, 15% DV Calcium, 10% DV Iron, and 140mg caffeine; the Whole Milk option has 293.33 calories, 4.33g fat, and 61g carbs, with 4.33g protein, 8% DV Vitamin A, and 106.67mg caffeine.
+
+
 
 ## **Based on Observation the Healthy product in Frappuccino® Light Blended**
 
