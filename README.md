@@ -2,7 +2,7 @@
 
 The analysis will help customers make informed decisions about their Starbucks beverage in Frappuccino® Blended Coffee and Frappuccino® Light Blended Coffee choices based on their specific health needs and preferences.
 
-##  BackGround
+##  Background
 <img src ='https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/ayobandung/bank_image/medium/starbucks-tutup-300-kedai-ini-alasannya.jpg'>
 
 Starbucks provides nutritional information for its products on its website and in its stores. Starbucks offers a variety of health benefits to its employees, including comprehensive medical, dental, and vision insurance, life insurance, short and long-term disability, and mental health support. In terms of the nutritional content of its products, Starbucks provides detailed information on its website, allowing customers to make informed choices based on their specific health needs. The nutritional content of Starbucks products varies, and whether they are healthy or not depends on individual dietary requirements. For example, a Dragon Drink® Starbucks Refreshers® Beverage contains 130 calories and 25 calories from fat. Similarly, a Caramel Frappuccino® Blended Beverage contains 140 calories from fat.
@@ -60,7 +60,7 @@ The analysis will involve: **Focusing on Frappuccino® Blended Coffee vs Frappuc
 | Iron (% DV)           | Percentage of Daily Value for Iron                     |
 | Caffeine (mg)         | Amount of caffeine in milligrams                       |
 
-**Frappuccino® Light Blended Coffee**
+## **Frappuccino® Light Blended Coffee**
 
 **1. Caramel:**
 The Grande Nonfat Milk Frappuccino® Light Blended Coffee (Caramel) has 150 calories, 0.1g total fat, and 33g total carbs, with 3g protein, 10% DV Vitamin A, and 90mg caffeine; the Tall Nonfat Milk option has 100 calories, 0.1g fat, and 23g carbs, with 3g protein, 8% DV Vitamin A, and 65mg caffeine; the Venti Nonfat Milk version has 200 calories, 0.1g fat, and 44g carbs, with 5g protein, 15% DV Calcium, 2% DV Iron, and 120mg caffeine.
@@ -91,6 +91,8 @@ The Grande Nonfat Milk Java Chip has 310 calories, 4g total fat, and 67g total c
 The Grande Nonfat Milk Mocha has 260 calories, 1g total fat, and 61g total carbs, with 4g protein, 10% DV Vitamin A, 8% DV Vitamin C, and 110mg caffeine; the Soymilk option has 263.33 calories, 2.5g fat, and 59g carbs, with 4.33g protein, 13.33% DV Vitamin C, and 106.67mg caffeine; the Tall Nonfat Milk has 180 calories, 0.5g fat, and 42g carbs, with 3g protein, 10% DV Vitamin A, and 130mg caffeine; the Venti Nonfat Milk has 340 calories, 1g fat, and 80g carbs, with 7g protein, 15% DV Calcium, 10% DV Iron, and 140mg caffeine; the Whole Milk option has 293.33 calories, 4.33g fat, and 61g carbs, with 4.33g protein, 8% DV Vitamin A, and 106.67mg caffeine.
 
 
+### Conclusion
+<img src = 'https://blog.myfitnesspal.com/wp-content/uploads/2017/10/UACF_HealthyWays-Starbucks_FeaturedFINAL.jpg'>
 
 ## **Based on Observation the Healthy product in Frappuccino® Light Blended**
 
@@ -114,8 +116,6 @@ The Venti Nonfat Milk version offers more calcium (15% DV) but has a slightly hi
 
 **For individuals aiming to reduce calorie and fat intake, the Frappuccino® Light Blended Tall Nonfat Milk options for both Caramel and Mocha might be considered relatively healthier. However, it's essential to consider your overall diet, nutritional needs, and personal preferences when choosing beverages.**
 
-### Conclusion
-<img src = 'https://blog.myfitnesspal.com/wp-content/uploads/2017/10/UACF_HealthyWays-Starbucks_FeaturedFINAL.jpg'>
 
 ## **Based on Observation the Healthy product in Frappuccino® Blended**
 
