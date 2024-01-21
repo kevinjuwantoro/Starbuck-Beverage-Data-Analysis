@@ -1,0 +1,7 @@
+NBviewerPermalink
+
+A free tool maintained by the Jupyter project, NBviewer is an online service that renders static Jupyter Notebooks from URLs. If you supply NBviewer with a URL that points to a GitHub repository, you can navigate the repository structure from NBviewer and select notebooks to view.
+
+One limitation of NBviewer is that your notebooks must be publicly available. If you’re working in a private GitHub repository, you can’t use NBviewer.
+
+https://nbviewer.org/github/kevinjuwantoro/Starbuck-Beverage-Data-Analysis/blob/main/Starbuck%20Data%20Analysis%20Hieremias%20Kevin%20Juwantoro.ipynb
